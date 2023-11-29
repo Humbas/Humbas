@@ -13,9 +13,8 @@
 <h1 align="left">Hi 👋, I'm Humberto</h1>
 <h3 align="left">I am a designer who codes, or a coder that designs</h3>
 
-- 🔭 I’m currently working on [my personal website](www.illustratetheweb.com)
 
-- 🌱 I’m currently learning **Front End Engineering**
+- 🌱 I’m currently learning more  **Front End Engineering**
 
 - 👨‍💻 All of my projects are available at [www.illustratetheweb.com](www.illustratetheweb.com)
 
