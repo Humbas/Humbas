@@ -10,8 +10,8 @@
 <div align="left" style=" with:60%;
     float:right;
     position:relative">
-<h1 align="center">Hi 👋, I'm Humberto</h1>
-<h3 align="center">I am a designer who codes, or a coder that designs</h3>
+<h1 align="left">Hi 👋, I'm Humberto</h1>
+<h3 align="left">I am a designer who codes, or a coder that designs</h3>
 
 - 🔭 I’m currently working on [my personal website](www.illustratetheweb.com)
 
