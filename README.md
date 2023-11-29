@@ -13,10 +13,10 @@
 <h1 align="left">Hi 👋, I'm Humberto</h1>
 <h3 align="left">I am a designer who codes, or a coder that designs</h3>
 
-
+-   You can know a bit more aboutme at [https://www.humbertoventura.com](https://www.humbertoventura.com)
 - 🌱 I’m currently learning more  **Front End Engineering**
 
-- 👨‍💻 All of my projects are available at [www.illustratetheweb.com](www.illustratetheweb.com)
+- 👨‍💻 All of my projects are available at [https://www.illustratetheweb.com](https://www.illustratetheweb.com)
 
 - 📫 How to reach me **hello@illustratetheweb.com**
 
