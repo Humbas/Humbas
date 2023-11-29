@@ -2,8 +2,8 @@
 
 
 <p class="image style=" width:35%;
-   left:0;
-   background:black"><img src="https://illustratetheweb.com/images/saucer.svg" width="100px" /></p>
+   right:0;
+   background:black"><img src="https://illustratetheweb.com/images/saucer.svg" width="200px" /></p>
 <p align="left" style=" with:60%;
     float:right;
     position:relative">
