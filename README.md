@@ -16,7 +16,7 @@
 -   You can know a bit more aboutme at [https://www.humbertoventura.com](https://www.humbertoventura.com)
 - 🌱 I’m currently learning more  **Front End Engineering**
 
-- 👨‍💻 All of my projects are available at [https://www.illustratetheweb.com](https://www.illustratetheweb.com)
+- 👨‍💻 A sample of my projects are available at [https://www.illustratetheweb.com](https://www.illustratetheweb.com)
 
 - 📫 How to reach me **hello@illustratetheweb.com**
 
