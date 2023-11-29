@@ -3,7 +3,7 @@
 
 <p class="image style=" width:35%;
    right:0;
-   background:black"><img src="https://illustratetheweb.com/images/saucer.svg" width="200px" /></p>
+   background:black;position:absolute;"><img src="https://illustratetheweb.com/images/saucer.svg" width="300px" /></p>
 <p align="left" style=" with:60%;
     float:right;
     position:relative">
