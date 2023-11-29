@@ -1,12 +1,12 @@
- <n1>Hi there, I am Humberto. Some say that I am from a distant planet.</h1>
+ <h1>Hi there, I am Humberto. Some say that I am from a distant planet.</h1>
 
 
-<p class="image style=" width:35%;
+<div class="image style=" width:35%;
    left:0;
    background:black;
    position:absolute;">
    <img src="https://illustratetheweb.com/images/saucer.svg" width="300px" />
-</p>
+</div>
 <p align="left" style=" with:60%;
     float:right;
     position:relative">
