@@ -10,8 +10,7 @@
 <div align="left" style=" with:60%;
     float:right;
     position:relative">
-<h1 align="left">Hi 👋, I'm Humberto</h1>
-<h3 align="left">I am a designer who codes, or a coder that designs</h3>
+<h3 align="left">I am a designer who codes, or a coder that designs. Some say this is not normal. Am I an alien?</h3>
 
 -   You can know a bit more aboutme at [https://www.humbertoventura.com](https://www.humbertoventura.com)
 - 🌱 I’m currently learning more  **Front End Engineering**
